@@ -1,3 +1,0 @@
-Brief Introduction About Myself
-My name is Eugene Odhiambo. I am passionate about learning technology, problem-solving, and using digital tools to create real-world solutions. I enjoy developing new skills that improve collaboration and efficiency.
-Through my studies, I aim to grow both academically and professionally, especially in areas related to technology, innovation, and entrepreneurship.
