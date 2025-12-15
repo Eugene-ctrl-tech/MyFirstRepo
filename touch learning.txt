@@ -1,0 +1,1 @@
+I have learned how to use Git for version control, including cloning repositories, making commits, and pushing changes to GitHub. This has helped me understand how collaborative coding works.
