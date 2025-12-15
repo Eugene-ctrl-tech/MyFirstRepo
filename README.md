@@ -1,1 +1,5 @@
-This is my first repository created as part of a GitHub learning task
+## Names of contributors
+- Alice
+- Bob
+- Eugene Odhiambo  ← add your name here
+
